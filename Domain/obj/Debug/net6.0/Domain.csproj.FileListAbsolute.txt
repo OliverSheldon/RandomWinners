@@ -1,0 +1,4 @@
+C:\Projects\RandomWinners\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RandomWinners\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\RandomWinners\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Projects\RandomWinners\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache

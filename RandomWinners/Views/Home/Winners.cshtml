@@ -1,0 +1,14 @@
+﻿@using Domain.Models
+
+@{
+    ViewData["Title"] = "WINNER!";
+}
+
+@model List<Person>;
+
+    <h1>Here are your winners:</h1>
+@foreach(Person p in Model)
+{
+    <p>@p.Forename @p.Surname</p>
+}
+

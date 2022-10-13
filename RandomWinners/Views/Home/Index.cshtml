@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model WinnersRequest;
+
+@using (Html.BeginForm("Winners", "Home", FormMethod.Post)){
+    @Html.LabelFor(m => m.number);
+    @Html.TextBoxFor(m => m.number);
+    <input type="submit" value="Submit" />
+}
